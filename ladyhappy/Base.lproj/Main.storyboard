@@ -16,12 +16,12 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CrV-ea-ZX0">
-                                <rect key="frame" x="92" y="425" width="230" height="46"/>
+                                <rect key="frame" x="105" y="425" width="204" height="46"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <accessibility key="accessibilityConfiguration" label="on"/>
                                 <state key="normal" title="Click to see something :)"/>
                                 <connections>
-                                    <action selector="buttonClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="JvS-yO-CWO"/>
+                                    <action selector="magicButtonClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0AJ-hU-bZZ"/>
                                 </connections>
                             </button>
                         </subviews>

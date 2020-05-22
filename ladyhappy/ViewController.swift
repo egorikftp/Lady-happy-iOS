@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    @IBAction func buttonClicked(_ sender: UIButton) {
+    @IBAction func magicButtonClick(_ sender: UIButton) {
       print("I Love my Gulia :3")
     }
 
